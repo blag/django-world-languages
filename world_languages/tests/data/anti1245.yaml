@@ -1,0 +1,126 @@
+anti1245:
+    also_spoken_in:
+        Anguilla:
+            Alternate Names: Leeward Caribbean Creole English
+            Language Use: Informally with close associates. All ages.
+            Language name: Anguillan Creole English
+            Location: Throughout Anguilla.
+            Population: 11,500 in Anguilla (2001 census). It is difficult to substantiate
+                the number of Creole speakers and English speakers.
+            Status: 6a (Vigorous). De facto language of national identity.
+        Dominica:
+            Alternate Names: Leeward Caribbean Creole English
+            Language Use: May have developed from migrants coming from Antigua and
+                Montserrat (2011 K. Decker).
+            Language name: Kokoy Creole English
+            Location: Marigot and Wesley in northeast Dominica and Clifton and Woodford
+                Hill on the northwest point of the island.
+            Population: 200 in Dominica (2004).
+            Status: 6a (Vigorous).
+        Montserrat:
+            Alternate Names: Leeward Caribbean Creole English
+            Language name: Montserrat Creole English
+            Population: 7,570 in Montserrat (2001).
+            Status: 3 (Wider communication).
+        Saint Kitts and Nevis:
+            Alternate Names: Kittitian Creole English, Leeward Caribbean Creole English
+            Dialects: Nevis Creole English.
+            Language Use: All domains. All ages. Negative attitudes. Most also use
+                English [eng].
+            Language name: Saint Kitts Creole English
+            Location: Widespread.
+            Population: 39,000 in Saint Kitts and Nevis.
+            Status: 6a (Vigorous).
+        Saint Martin (French part):
+            Alternate Names: Sint Maarten Creole English
+            Language name: Simaatn Creole English
+            Population: 14,000 in Saint Martin (2011 SIL).
+            Status: 3 (Wider communication).
+        Sint Maarten (Dutch part):
+            Alternate Names: Sint Maarten Creole English
+            Language name: Simaatn Creole English
+            Location: Southern area.
+            Population: 12,000 in Sint Maarten (2011 SIL).
+            Status: 3 (Wider communication).
+    alternate_names:
+    - Leeward Caribbean Creole
+    classification:
+    - Creole
+    - English based
+    - Atlantic
+    - Eastern
+    - Southern
+    classification-gl:
+    - Indo-European [indo1319]
+    - Germanic [germ1287]
+    - Northwest Germanic [nort3152]
+    - West Germanic [west2793]
+    - North Sea Germanic [nort3175]
+    - Anglo-Frisian [angl1264]
+    - Anglian [angl1265]
+    - Mercian [merc1242]
+    - Macro-English [macr1271]
+    - Guinea Coast Creole English [guin1259]
+    - Caribbean English Creole [cari1284]
+    - Eastern Caribbean Creole [east2759]
+    - Gullah-Nevis-Antigua [gull1242]
+    classification-hh:
+    - Indo-European
+    - Germanic
+    - Northwest Germanic
+    - West Germanic
+    - North Sea Germanic
+    - Anglo-Frisian
+    - Anglian
+    - Mercian
+    - Macro-English
+    - Guinea Coast Creole English
+    - Caribbean English Creole
+    - Eastern Caribbean Creole
+    - Gullah-Nevis-Antigua
+    - Nevis-Antigua
+    code+name: Antigua and Barbuda Creole English [aig]
+    coordinates:
+        latitude: 15.55314
+        longitude: -61.3156
+    country:
+    - Anguilla [AI]
+    - Antigua and Barbuda [AG]
+    - Dominica [DM]
+    - Montserrat [MS]
+    - Saint Kitts and Nevis [KN]
+    - United Kingdom [GB]
+    dialects:
+    - Antiguan Creole English
+    - Barbuda Creole English. Slight comprehension of Jamaican and perhaps Bahamas
+        creoles. May be similar to English Creoles of the Virgin Islands and Netherlands
+        Antilles. One dialect is spoken mainly by older generations who live in Jennings
+        and Bolans villages
+    - near Johnson. People perceive the Southern variety
+    - spoken along Fig Tree Drive Road from Swetes to Bolans
+    - as being most different and difficult to understand. Barbudan is perceived as
+        being more linguistically distant than the Creole English of Montserrat Point
+        (2003 K. Decker).
+    iso_639-3: aig
+    language_development: Oral materials available.
+    language_maps: Creole Languages of the Eastern Caribbean
+    language_status: 6a (Vigorous). De facto language of national identity.
+    language_use: All ages. Negative attitudes.
+    location: Throughout Antigua and Barbuda. Also in Anguilla (Anguillan Creole English),
+        Dominica (Kokoy Creole English), Montserrat (Montserrat Creole English), Saint
+        Kitts and Nevis (Saint Kitts Creole English), Saint Martin (Simaatn Creole
+        English), Sint Maarten (Simaatn Creole English), United Kingdom (Leeward Caribbean
+        Creole English).
+    macroarea-gl: North America
+    name: Antigua and Barbuda Creole English
+    other_comments: Most villagers deny the existence of a creole, though they speak
+        it. Although some negative attitudes toward it, its use in the community is
+        quite strong. Its uniqueness and cultural role is valued. Many migrated to
+        Antigua from Montserrat after the eruption of Soufriere Hills volcano on 18
+        July, 1995. Christian.
+    population: '67,000 in Antigua and Barbuda (2001), increasing. It is difficult
+        to substantiate the number of Creole speakers and English speakers. Population
+        total all countries: 151,270.'
+    population_numeric: 67000
+    writing:
+    - Latin script

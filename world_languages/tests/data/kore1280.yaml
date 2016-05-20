@@ -1,0 +1,128 @@
+kore1280:
+    also_spoken_in:
+        China:
+            Alternate Names: Chaoxian, Hanguohua
+            Language Use: Han Chinese living among them speak Korean as L2. All domains.
+                All ages. Positive attitudes. 700,000 also use Chinese [cmn]. A few
+                also use Russian [rus] or Japanese [jpn].
+            Language name: Korean
+            Location: 60% of Korean speakers live in Jilin (Kirin) Province, in Yanbian
+                (Hyanbian) Korean autonomous prefecture; 20% live in Heilongjiang
+                Province; 13% in Liaoning Province; some in Beijing Municipality,
+                Hebei and Shandong provinces, and Inner Mongolia Autonomous Region.
+            Population: 1,920,000 in China (2000 census). 1,200,000 monolinguals.
+            Status: 4 (Educational).
+        Japan:
+            Language Use: Also use Japanese [jpn].
+            Language name: Korean
+            Population: 670,000 in Japan (1988).
+            Status: 4 (Educational).
+        North Korea:
+            Dialects: Hamgyongdo (North Hamgyongdo, South Hamgyongdo), Hwanghaedo,
+                P'yong'ando (North P'yong'ando, South P'yong'ando).
+            Language name: Korean
+            Population: 20,000,000 in Korea, North (1986).
+            Status: 1 (National). De facto national language.
+        Russia:
+            Language name: Korean
+            Population: 42,400 in Russian Federation (2010 census).
+            Status: 4 (Educational).
+        Thailand:
+            Language name: Korean
+            Location: Bangkok.
+            Status: 4 (Educational).
+    alternate_names:
+    - Hanguk Mal
+    - Hanguk Uh
+    classification:
+    - Language isolate
+    classification-gl:
+    - Koreanic [kore1284]
+    classification-hh:
+    - Korean
+    code+name: Korean [kor]
+    coordinates:
+        latitude: 37.5
+        longitude: 128.0
+    country:
+    - Canada
+    - Brazil
+    - Northern Mariana Islands
+    - Panama
+    - Mongolia
+    - Uzbekistan
+    - Suriname
+    - Turkmenistan
+    - Bahrain
+    - Brunei
+    - Saudi Arabia
+    - Australia
+    - Singapore
+    - American Samoa
+    - China
+    - Germany
+    - Belize
+    - Kazakhstan
+    - Mauritania
+    - Kyrgyzstan
+    - Libya
+    - Philippines
+    - United States
+    - Thailand
+    - New Zealand
+    - Korea
+    - North
+    - Guam
+    - Korea
+    - South
+    - Russian Federation (Asia)
+    - Mozambique
+    - Paraguay
+    - Japan
+    - Tajikistan
+    country-gl:
+    - China [CN]
+    - Korea, Democratic People's Republic of [KP]
+    - Korea, Republic of [KR]
+    - Russian Federation [RU]
+    dialects:
+    - Cheju Island
+    - Chollado (North Chollado
+    - South Chollado)
+    - Ch'ungch'ongdo (North Ch'ungch'ong
+    - South Ch'ungch'ong)
+    - Kyongsangdo (North Kyongsangdo
+    - South Kyongsangdo)
+    - Seoul (Kangwondo
+    - Kyonggido). Scholars differ as to whether or not Korean is related to Japanese
+        [jpn]. Some suggest that both languages are possibly distantly related to
+        the Altaic group. Dialect boundaries generally correspond to provincial boundaries.
+        Some dialects are not easily intelligible with others (Voegelin and Voegelin
+        1977). The suffix
+    - -do
+    - on dialect names means Province. Comprehension of standard Korean may be lower
+        on Cheju Island.
+    iso_639-3: kor
+    language_development: 'Literacy rate in L1: 98% (1995). Higher adult illiteracy
+        is reported on Cheju Island. Fully developed. Bible: 1911-1993.'
+    language_maps: China
+    language_status: 1 (National). De facto national language.
+    location: Also in American Samoa, Australia, Bahrain, Belize, Brazil, Brunei,
+        Canada, China, Germany, Guam, Japan, Kazakhstan, North Korea, Kyrgyzstan,
+        Libya, Mauritania, Mongolia, Mozambique, New Zealand, Northern Mariana Islands,
+        Panama, Paraguay, Philippines, Russian Federation, Saudi Arabia, Singapore,
+        Suriname, Tajikistan, Thailand, Turkmenistan, United States, Uzbekistan.
+    macroarea-gl: Eurasia
+    name: Korean
+    other_comments: Jeju (Cheju) has been identified as a language separate from Cheju
+        Island dialect of Korean, but not yet assigned an ISO code (Moseley 2010).
+        Buddhist, Christian.
+    population: '42,000,000 in Korea, South (1986). Population total all countries:
+        66,418,320.'
+    population_numeric: 42000000
+    typology:
+    - SOV
+    writing:
+    - Braille script
+    - Hangul and Han scripts, primary usage
+    - Latin script, used for maps and signs

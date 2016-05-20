@@ -1,0 +1,31 @@
+esto1258:
+    classification-gl:
+    - Uralic [ural1272]
+    - Finnic [finn1317]
+    classification-hh:
+    - Uralic
+    - Finnic
+    code+name: Estonian [est]
+    coordinates:
+        latitude: 59.54781666666667
+        longitude: 22.820923333333337
+    country:
+    - Canada
+    - Russian Federation (Asia)
+    - Australia
+    - Estonia
+    - Finland
+    - United Kingdom
+    - Sweden
+    - Latvia
+    - United States
+    country-gl:
+    - Estonia [EE]
+    - Latvia [LV]
+    - Russian Federation [RU]
+    iso_639-3: est
+    macroarea-gl: Eurasia
+    name: Estonian
+    other_comments: 'Member languages are: Standard Estonian [ekk], Võro [vro]'
+    population: 'Population total all countries: 1,078,400.'
+    population_numeric: 1078400

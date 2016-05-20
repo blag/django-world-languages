@@ -1,0 +1,50 @@
+bain1259:
+    alternate_names:
+    - Bagnoun
+    - Bainuk
+    - Banhum
+    - Banyuk
+    - Banyum
+    - Banyun
+    - Banyung
+    - Elomay
+    - Elunay
+    - Guñuun
+    classification:
+    - Niger-Congo
+    - Atlantic-Congo
+    - Atlantic
+    - Northern
+    - Eastern Senegal-Guinea
+    - Banyun
+    classification-gl:
+    - Atlantic-Congo [atla1278]
+    - North-Central Atlantic [nort3146]
+    - North Atlantic [nort3148]
+    - Eastern Senegal-Guinea [east2703]
+    - Bainounk [bain1264]
+    classification-hh:
+    - Atlantic-Congo
+    - North-Central Atlantic
+    - North Atlantic
+    - Eastern Senegal-Guinea
+    - Banyun
+    code+name: Bainouk-Gunyuño [bab]
+    coordinates:
+        latitude: 12.31277
+        longitude: -16.05858
+    country:
+    - Guinea-Bissau [GW]
+    dialects:
+    - Distinct from Bainouk-Gunyamoolo [bcz] of Senegal and Gambia. Related to Kobiana
+        [kcj] and Kasanga [ccj] of Senegal and Guinea-Bissau. More similar to the
+        Ménik [tnr] varieties of eastern Senegal than to Balanta-Kentohe [ble].
+    iso_639-3: bab
+    language_status: 6a (Vigorous).
+    location: South of Casamance river, São Domingos area.
+    macroarea-gl: Africa
+    name: Bainouk-Gunyuño
+    name-gl: Bainouk-Gunyuno
+    other_comments: Muslim, traditional religion.
+    population: 8,860 (2006 World Factbook).
+    population_numeric: 8860

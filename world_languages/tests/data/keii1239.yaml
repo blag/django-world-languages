@@ -1,0 +1,64 @@
+keii1239:
+    alternate_names:
+    - Kai
+    - Saumlaki
+    - Veveu Evav
+    classification:
+    - Austronesian
+    - Malayo-Polynesian
+    - Central-Eastern Malayo-Polynesian
+    - Southeast Maluku
+    - Kei-Tanimbar
+    - Kei-Fordata
+    classification-gl:
+    - Austronesian [aust1307]
+    - Nuclear Austronesian [nucl1752]
+    - Malayo-Polynesian [mala1545]
+    - Central-Eastern Malayo-Polynesian [cent2237]
+    - Central Malayo-Polynesian [cent2245]
+    - Kei-Tanimbar [keit1238]
+    - Kei-Fordata [keif1237]
+    classification-hh:
+    - Austronesian
+    - Nuclear Austronesian
+    - Malayo-Polynesian
+    - Central-Eastern Malayo-Polynesian
+    - Central Malayo-Polynesian
+    - Kei-Tanimbar
+    - Kei-Fordata
+    code+name: Kei [kei]
+    coordinates:
+        latitude: -5.63948
+        longitude: 133.02009
+    country:
+    - Indonesia (Papua)
+    country-gl:
+    - Indonesia [ID]
+    dialects:
+    - Kei Besar
+    - Kei Kecil
+    - Ta'am
+    - Tanimbar Kei (Atnebar)
+    - Tayando. Kei Kecil is the prestigious urban dialect. Kei Besar speakers usually
+        also know Kei Kecil
+    - 'but not vice versa. Kei Besar is more similar to Fordata [frd] than other Kei
+        dialects. Tanimbar Kei is spoken in only one village. Lexical similarity:
+        60% with Fordata [frd].'
+    iso_639-3: kei
+    language_development: 'Literacy rate in L1: 100 can read, 10 can write. Literacy
+        rate in L2: 50%-75%. 100 can read, 10 can write. Used informally in school
+        for explanations. Dictionary. Grammar.'
+    language_maps: Indonesia, Southern Maluku
+    language_status: 6a (Vigorous).
+    language_use: Fairly vigorous. Banda [bnd] and Kur [kuv] use Kei as L2. All domains.
+        All ages. Positive attitudes. Also use Indonesian [ind] or Banda [bnd].
+    location: Southeast Maluku Province, about 207 villages on 10 islands. Kei island
+        group west of Aru islands; Kecil, Besar, and surrounding islands; also, Kur
+        islands, lying west and northwest of Kei group.
+    macroarea-gl: Papunesia
+    name: Kei
+    other_comments: Muslim, Christian, traditional religion.
+    population: 85,000 (2000 E. Travis). 4,500 monolinguals.
+    population_numeric: 85000
+    writing:
+    - Latin script

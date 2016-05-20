@@ -1,0 +1,59 @@
+bali1278:
+    alternate_names:
+    - Balinese
+    classification:
+    - Austronesian
+    - Malayo-Polynesian
+    - Bali-Sasak-Sumbawa
+    classification-gl:
+    - Austronesian [aust1307]
+    - Nuclear Austronesian [nucl1752]
+    - Malayo-Polynesian [mala1545]
+    - Malayo-Sumbawan [mala1536]
+    - North and East Malayo-Sumbawan [nort3170]
+    - Bali-Sasak-Sumbawa [bali1277]
+    classification-hh:
+    - Austronesian
+    - Nuclear Austronesian
+    - Malayo-Polynesian
+    - Malayo-Sumbawan
+    - North and East Malayo-Sumbawan
+    - Bali-Sasak-Sumbawa
+    code+name: Bali [ban]
+    coordinates:
+        latitude: -8.35714
+        longitude: 115.07496
+    country:
+    - Indonesia (Papua)
+    country-gl:
+    - Indonesia [ID]
+    dialects:
+    - Highland Bali ('Bali Aga' )
+    - Lowland Bali (Badung
+    - Buleleng
+    - Gianyar
+    - Jembrana
+    - Karangasem
+    - Klungkung
+    - Tabanan)
+    - Nusa Penida. Reportedly 2 distinct dialects. High Bali is used in religion
+    - but users are diminishing. Speech strata in several lowland varieties (1989
+        A. Clynes).
+    iso_639-3: ban
+    language_development: 'Bible: 1990.'
+    language_maps: Indonesia, Java and Bali
+    language_status: 5 (Developing).
+    location: Nusa Tenggara, Bali Province. Islands of Bali, north Nusa Penida.
+    macroarea-gl: Papunesia
+    name: Bali
+    name-gl: Balinese
+    other_comments: Nusa Penida Island variety associated with Highland Bali dialect.
+        It is a scattering of villages with minimal influence from the former Majapahit
+        Empire. Hindu.
+    population: 3,330,000 (2000 census). 7,000 in South Sulawesi. Includes immigrant
+        speakers in west Nusa Tenggara, west Lombok Islands.
+    population_numeric: 3330000
+    writing:
+    - Balinese script
+    - Javanese script, no longer in use
+    - Latin script, used since early 20th century

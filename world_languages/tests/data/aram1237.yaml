@@ -1,0 +1,40 @@
+aran1237:
+    alternate_names:
+    - Dombano
+    - Jaban
+    - Sebyar
+    - Sumuri
+    - Yaban
+    classification:
+    - Trans-New Guinea
+    - South Bird's Head
+    - South Bird's Head Proper
+    - Eastern
+    classification-gl:
+    - South Bird's Head Family [sout1516]
+    - East South Bird's Head [east1439]
+    classification-hh:
+    - South_Bird's_Head_Family
+    - East South Bird's Head
+    code+name: Arandai [jbj]
+    coordinates:
+        latitude: -2.08016
+        longitude: 132.98337
+    country:
+    - Indonesia (Papua)
+    country-gl:
+    - Indonesia [ID]
+    dialects:
+    - 'Dombano (Arandai). Related to Kais [kzm]. Lexical similarity: 71% with the
+        Kemberano and Dombano dialects.'
+    iso_639-3: jbj
+    language_maps: Indonesia, Northwestern Papua
+    language_status: 6b (Threatened).
+    location: Papua Province, Manokwari regency, Bintuni subdistrict. South Bird's
+        Head, MacCluer Gulf; east and west of Wariaga river, Sebyar (Timoforo) river
+        area.
+    macroarea-gl: Papunesia
+    name: Arandai
+    other_comments: Christian, traditional religion.
+    population: 1,000 (1987 SIL).
+    population_numeric: 1000

@@ -1,0 +1,84 @@
+suda1236:
+    also_spoken_in:
+        Eritrea:
+            Language name: Arabic, Sudanese Spoken
+            Population: 100,000 in Eritrea.
+            Status: 6a (Vigorous).
+        South Sudan:
+            Alternate Names: Khartoum Arabic, Sudanese Arabic
+            Language Use: All domains except written. All ages.
+            Language name: Arabic, Sudanese Spoken
+            Location: Widespread.
+            Population: Population estimate not possible at this time.
+            Status: 3 (Wider communication).
+    alternate_names:
+    - Khartoum Arabic
+    - Sudanese Arabic
+    classification:
+    - Afro-Asiatic
+    - Semitic
+    - Central
+    - South
+    - Arabic
+    classification-gl:
+    - Afro-Asiatic [afro1255]
+    - Semitic [semi1276]
+    - West Semitic [west2786]
+    - Central Semitic [cent2236]
+    - Arabian [arab1394]
+    - Arabic [arab1395]
+    - Egyptic Arabic [egyp1251]
+    - Egypto-Sudanic Arabic [egyp1254]
+    - Sudanese-Chadian Arabic [suda1235]
+    classification-hh:
+    - Afro-Asiatic
+    - Semitic
+    - West Semitic
+    - Central Semitic
+    - Arabian
+    - Arabic
+    - Egyptic Arabic
+    - Egypto-Sudanic Arabic
+    - Sudanese-Chadian Arabic
+    code+name: Arabic, Sudanese Spoken [apd]
+    coordinates:
+        latitude: 17.8021125
+        longitude: 33.31793
+    country:
+    - Eritrea
+    - Saudi Arabia
+    - Libya
+    - Ethiopia
+    - Egypt
+    - Sudan
+    country-gl:
+    - Central African Republic [CF]
+    - Chad [TD]
+    - Egypt [EG]
+    - Eritrea [ER]
+    - Ethiopia [ET]
+    - Libya [LY]
+    - Sudan [SD]
+    dialects:
+    - Ja'ali
+    - Khartoum
+    - North Kordofan Arabic
+    - Shukri
+    - Western Sudanese. Western Sudan Spoken Arabic and Khartoum Arabic dialects have
+        little compatibility (Kaye 1988).
+    iso_639-3: apd
+    language_development: 'Radio programs. TV. Dictionary. NT: 1978.'
+    language_status: 3 (Wider communication). De facto national working language.
+    language_use: All domains except written. All ages. Positive attitudes.
+    location: Widespread as L1 or L2. Also in Egypt, Eritrea, Ethiopia, Libya, Saudi
+        Arabia, South Sudan.
+    macroarea-gl: Africa
+    name: Arabic, Sudanese Spoken
+    name-gl: Sudanese Arabic
+    other_comments: Written form rarely used; Standard Arabic [arb] used instead.
+    population: '15,000,000 in South Sudan and Sudan. Population total all countries:
+        1,833,000.'
+    population_numeric: 15000000
+    writing:
+    - Arabic script
+    - Latin script

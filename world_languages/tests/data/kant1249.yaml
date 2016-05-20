@@ -1,0 +1,78 @@
+kant1249:
+    alternate_names:
+    - Dagaare-Dioula
+    - Kantonsi
+    - Yare
+    - Yarsi
+    classification:
+    - Niger-Congo
+    - Atlantic-Congo
+    - Volta-Congo
+    - North
+    - Gur
+    - Central
+    - Northern
+    - Oti-Volta
+    - Western
+    - Southeast
+    classification-gl:
+    - Atlantic-Congo [atla1278]
+    - Volta-Congo [volt1241]
+    - North Volta-Congo [nort3149]
+    - Gur [gura1261]
+    - Central Gur [cent2243]
+    - Northern Central Gur [nort2777]
+    - Bwamu-Oti-Volta [bwam1248]
+    - Oti-Volta [otiv1239]
+    - Nuclear Oti-Volta [nucl1743]
+    - Gurma-Yom-Oti-Volta Occidental [gurm1247]
+    - Western Oti-Volta [west2461]
+    - Nuclear Oti-Volta Occidental [nucl1748]
+    - Northwest Oti-Volta [nort3234]
+    - Mossi-Farefare [moss1237]
+    - Mossic [moss1238]
+    classification-hh:
+    - Atlantic-Congo
+    - Volta-Congo
+    - North Volta-Congo
+    - Gur
+    - Central Gur
+    - Northern Central Gur
+    - Bwamu-Oti-Volta
+    - Oti-Volta
+    - Nuclear Oti-Volta
+    - Gurma-Yom-Oti-Volta Occidental
+    - Oti-Volta Occidental
+    - Nuclear Oti-Volta Occidental
+    - Northwest Oti-Volta
+    - Mossi-Farefare
+    - Mossic
+    code+name: Kantosi [xkt]
+    coordinates:
+        latitude: 10.970305
+        longitude: -1.928075
+    country:
+    - Burkina Faso [BF]
+    - Ghana [GH]
+    dialects:
+    - Similar to Kamara [jmr]
+    - Farefare [gur]
+    - and Dagbani [dag].
+    iso_639-3: xkt
+    language_development: Taught in primary schools.
+    language_maps: Ghana
+    language_status: 6b (Threatened).
+    language_use: 'Shifting to languages where they settled: those in Funsi now speak
+        Pasaale [sig], those near Wa now speak Wali [wlx]. Home. All ages. Speakers
+        in Sandema also use Buli [bwu].'
+    location: North central, Sandema district, among Bulsa (Buli) [bwu] language area;
+        Navrongo, Bolgatonga, Nalerigu, and Kpaliwogo, near Wa.
+    macroarea-gl: Africa
+    name: Kantosi
+    other_comments: 'A source says they are from Niger or Mali. Glossonym: Yare or
+        Yarsi by the Bulsa. Distinct from Dagari-Dioula [dgd] in Burkina Faso. Muslim.'
+    population: 2,300 (2003 GILLBT). 280-400 in Sandema District, probably about 280
+        in Kpaliwongo.
+    population_numeric: 2300
+    writing:
+    - Unwritten

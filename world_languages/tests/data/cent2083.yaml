@@ -1,0 +1,29 @@
+cent2083:
+    classification-gl:
+    - Bontok [bont1244]
+    classification-hh:
+    - Austronesian
+    - Nuclear Austronesian
+    - Malayo-Polynesian
+    - Northern Luzon
+    - Meso-Cordilleran
+    - South-Central Cordilleran
+    - Central Cordilleran
+    - North Central Cordilleran
+    - Nuclear Cordilleran
+    - Bontok-Kankanay
+    - Bontok
+    code+name: Bontok [bnc]
+    coordinates:
+        latitude: 17.09386
+        longitude: 121.02662
+    country:
+    - Philippines [PH]
+    iso_639-3: bnc
+    macroarea-gl: Papunesia
+    name: Bontok
+    name-gl: Central Bontoc
+    other_comments: 'Member languages are: Central Bontok [lbk], Eastern Bontok [ebk],
+        Northern Bontok [rbk], Southern Bontok [obk], Southwestern Bontok [vbk]'
+    population: 'Population total all countries: 40,700.'
+    population_numeric: 40700

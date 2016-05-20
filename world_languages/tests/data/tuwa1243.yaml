@@ -1,0 +1,83 @@
+tuwa1243:
+    alternate_names:
+    - Gilipanes
+    - Ifugaw
+    - Kiangan Ifugao
+    - Quiangan
+    classification:
+    - Austronesian
+    - Malayo-Polynesian
+    - Philippine
+    - Northern Luzon
+    - Meso-Cordilleran
+    - South-Central Cordilleran
+    - Central Cordilleran
+    - North Central Cordilleran
+    - Nuclear Cordilleran
+    - Ifugaw
+    classification-gl:
+    - Austronesian [aust1307]
+    - Nuclear Austronesian [nucl1752]
+    - Malayo-Polynesian [mala1545]
+    - Northern Luzon [nort3238]
+    - Meso-Cordilleran [meso1254]
+    - South-Central Cordilleran [sout3211]
+    - Central Cordilleran [cent2296]
+    - North Central Cordilleran [nort3240]
+    - Nuclear Cordilleran [nucl1754]
+    - Ifugaw [ifug1247]
+    classification-hh:
+    - Austronesian
+    - Nuclear Austronesian
+    - Malayo-Polynesian
+    - Northern Luzon
+    - Meso-Cordilleran
+    - South-Central Cordilleran
+    - Central Cordilleran
+    - North Central Cordilleran
+    - Nuclear Cordilleran
+    - Ifugaw
+    code+name: Ifugao, Tuwali [ifk]
+    coordinates:
+        latitude: 16.66464
+        longitude: 121.11348
+    country:
+    - Philippines [PH]
+    dialects:
+    - Hapao Ifugao
+    - Hungduan Ifugao
+    - Lagawe Ifugao. 77% intelligibility of Amganad Ifugao [ifa]
+    - '78% of Batad Ifugao [ifb]. Hapao dialect has 88% intelligibility of Hungduan
+        dialect. Lexical similarity: 80% with Amganad Ifugao [ifa]'
+    - 72% with Batad Ifugao [ifb]
+    - 78% with Hapao dialect
+    - 86% with Hungduan dialect.
+    iso_639-3: ifk
+    language_development: 'Literacy rate in L1: 25,000 can read and write. Literacy
+        rate in L2: 60%. Taught in primary schools. Bible: 2005.'
+    language_maps: Northern Philippines
+    language_status: 4 (Educational).
+    language_use: Vigorous. Used by other language speakers in trading and in exogamous
+        marriages. All domains. Court, religion, commerce. All ages. Positive attitudes.
+        All also use English [eng], Ilocano [ilo], Filipino [fil], or Amganad Ifugao
+        [ifa]. Those over 40 use more English than others.
+    location: Luzon, south Ifugao Province.
+    macroarea-gl: Papunesia
+    name: Ifugao, Tuwali
+    other_comments: Kiangan is the place, Tuwali the language. Christian.
+    population: 30,000 (2000 SIL), increasing. Only those below grade-school age are
+        monolingual.
+    population_numeric: 30000
+    typology:
+    - VSO
+    - prepositions
+    - genitives, relatives after noun heads
+    - articles, adjectives, numerals before noun heads
+    - question word initial
+    - 1 suffix, 2 infixes
+    - passives
+    - causatives
+    - comparatives
+    - V, CV, CVC
+    writing:
+    - Latin script

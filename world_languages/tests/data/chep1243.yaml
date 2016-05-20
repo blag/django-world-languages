@@ -1,0 +1,44 @@
+chep1243:
+    classification:
+    - Sino-Tibetan
+    - Tibeto-Burman
+    - Ngwi-Burmese
+    - Ngwi
+    - Southern
+    classification-gl:
+    - Sino-Tibetan [sino1245]
+    - Burmo-Qiangic [burm1265]
+    - Lolo-Burmese [lolo1265]
+    - Loloish [lolo1267]
+    - Hani-Jino [hani1249]
+    - Bisoid-Hanic [biso1244]
+    - Hanic [hani1250]
+    - Ha-Ya [haya1251]
+    - Akhaic [akha1246]
+    classification-hh:
+    - Sino-Tibetan
+    - Burmo-Qiangic
+    - Lolo-Burmese
+    - Loloish
+    - Hani-Jino
+    - Bisoid-Hanic
+    - Hanic
+    - Ha-Ya
+    - Akhaic
+    code+name: Chepya [ycp]
+    country:
+    - China
+    - Laos
+    country-gl:
+    - China [CN]
+    - Lao People's Democratic Republic [LA]
+    dialects:
+    - Related to Akeu [aeu].
+    iso_639-3: ycp
+    language_status: 7 (Shifting).
+    language_use: Shifting to Lahu [lhu] (2007).
+    location: Northwest Phongsaly Province.
+    macroarea-gl: Eurasia
+    name: Chepya
+    population: 2,000 (Bradley 2007).
+    population_numeric: 2000

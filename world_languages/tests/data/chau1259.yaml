@@ -1,0 +1,60 @@
+chau1259:
+    alternate_names:
+    - Bangba Lo
+    - Bangbani
+    - Chanpa Lo
+    - Chaudans Lo
+    - Saukas
+    - Shaukas
+    - Tsaudangsi
+    classification:
+    - Sino-Tibetan
+    - Tibeto-Burman
+    - Western Tibeto-Burman
+    - Bodish
+    - West Himalayish
+    - Almora
+    classification-gl:
+    - Sino-Tibetan [sino1245]
+    - Bodic [bodi1256]
+    - Tibeto-Kanauri [tibe1275]
+    - Rongpo-Almora [rong1263]
+    - Almora [almo1241]
+    - Darma-Byangsi-Chaudangsi [darm1241]
+    classification-hh:
+    - Sino-Tibetan
+    - Bodic
+    - Tibeto-Kanauri
+    - Rongpo-Almora
+    - Almora
+    - Darma-Byangsi-Chaudangsi
+    code+name: Chaudangsi [cdn]
+    coordinates:
+        latitude: 29.703310000000002
+        longitude: 80.48317
+    country:
+    - India [IN]
+    - Nepal [NP]
+    dialects:
+    - Related to Rangkas [rgk]
+    - Darmiya [drd]
+    - and Byangsi [bee] (Sharma 1989)
+    - unintelligible with Darmiya and Byangsi (Sharma 1994).
+    iso_639-3: cdn
+    language_development: 'Literacy rate in L1: Below 1%. Hindi used for written communication.'
+    language_maps: India, Map 1
+    language_status: 6b (Threatened).
+    language_use: Home, community. Negative attitudes. Highly bilingual in Kumaoni
+        [kfy] and Hindi [hin]. Some also use Tibetan [bod] or Nepali [npi].
+    location: Uttarakhand, Pithoragarh district, Darchula and Munsyari tahsils, Chaudangs
+        Patti, Kali river west bank facing the Nepal border along Mahakali valley.
+        Villages include Panggu, Rongto, Rimzhim, Waiku, Monggong, Chilla, Song, Sosa,
+        Sirdang, Sirkha, Rung, Zipti, Gala, Tangkul, and Syang Khola.
+    macroarea-gl: Eurasia
+    name: Chaudangsi
+    other_comments: Ranglo or Rang often used as a cover term for Byangs, Chaudangs,
+        Darmiya, and Rongpo. Hindu, traditional religion.
+    population: 1,830 (2000 USCWM). No monolinguals.
+    population_numeric: 1830
+    writing:
+    - Unwritten

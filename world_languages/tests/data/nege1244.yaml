@@ -1,0 +1,46 @@
+nege1244:
+    alternate_names:
+    - Dutch Creole
+    classification:
+    - Creole
+    - Dutch based
+    classification-gl:
+    - Indo-European [indo1319]
+    - Germanic [germ1287]
+    - Northwest Germanic [nort3152]
+    - West Germanic [west2793]
+    - Franconian [fran1268]
+    - Low Franconian [wese1235]
+    - Macro-Dutch [macr1270]
+    - Middle-Modern Dutch [midd1347]
+    - Modern Dutch [mode1257]
+    - Dutch Caribbean Creole [dutc1257]
+    classification-hh:
+    - Indo-European
+    - Germanic
+    - Northwest Germanic
+    - West Germanic
+    - Franconian
+    - Low Franconian
+    - Macro-Dutch
+    - Dutch Creole
+    code+name: Negerhollands [dcr]
+    coordinates:
+        latitude: 18.34155
+        longitude: -64.89215
+    country:
+    - U.S. Virgin Islands
+    country-gl:
+    - Virgin Islands, U.S. [VI]
+    iso_639-3: dcr
+    language_development: 'NT: 1781-1833.'
+    language_status: 10 (Extinct).
+    language_use: May be some remaining L2 speakers.
+    location: Formerly in Leeward Islands, Puerto Rico, Saint John, Saint Thomas,
+        United States Virgin Islands.
+    macroarea-gl: North America
+    name: Negerhollands
+    population: No remaining speakers.
+    population_numeric: 0
+    writing:
+    - Latin script

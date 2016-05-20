@@ -1,0 +1,35 @@
+nepa1252:
+    classification-gl:
+    - Indo-European [indo1319]
+    - Indo-Iranian [indo1320]
+    - Indo-Aryan [indo1321]
+    - Indo-Aryan Northern zone [indo1310]
+    - Eastern Pahari [east1436]
+    classification-hh:
+    - Indo-European
+    - Indo-Iranian
+    - Indo-Aryan
+    - Indo-Aryan Northern zone
+    - Eastern Pahari
+    code+name: Nepali [nep]
+    coordinates:
+        latitude: 27.59470333333333
+        longitude: 87.62008333333334
+    country:
+    - United States
+    - Brunei
+    - Nepal
+    - India
+    - Bhutan
+    country-gl:
+    - Bangladesh [BD]
+    - Bhutan [BT]
+    - China [CN]
+    - India [IN]
+    - Nepal [NP]
+    iso_639-3: nep
+    macroarea-gl: Eurasia
+    name: Nepali
+    other_comments: 'Member languages are: Dotyali [dty], Nepali [npi]'
+    population: 'Population total all countries: 14,410,100.'
+    population_numeric: 14410100

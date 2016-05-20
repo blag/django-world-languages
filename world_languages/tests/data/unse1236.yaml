@@ -1,0 +1,42 @@
+unse1236:
+    alternate_names:
+    - Rabaul Creole German
+    classification:
+    - Creole
+    - German based
+    classification-gl:
+    - Indo-European [indo1319]
+    - Germanic [germ1287]
+    - Northwest Germanic [nort3152]
+    - West Germanic [west2793]
+    - Franconian [fran1268]
+    - High Franconian [high1287]
+    classification-hh:
+    - Indo-European
+    - Germanic
+    - Northwest Germanic
+    - West Germanic
+    - Franconian
+    - High Franconian
+    code+name: Unserdeutsch [uln]
+    coordinates:
+        latitude: -4.19566
+        longitude: 152.18315
+    country:
+    - Australia [AU]
+    - Papua New Guinea [PG]
+    iso_639-3: uln
+    language_development: Grammar.
+    language_status: 8b (Nearly extinct).
+    language_use: Descendant of pidginized Standard German [deu] which originated
+        in Gazelle Peninsula of New Britain during German colonial times among Catholic
+        mixed-race (Vunapope) community. With increased mobility and intermarriage,
+        it is disappearing. Mainly older adults, still some younger people who can
+        understand it. All fluent in at least 2 of Standard German [deu], English
+        [eng], or Tok Pisin [tpi]. Some also use Kuanua [ksd].
+    location: East New Britain Province, Rabaul.
+    macroarea-gl: Papunesia
+    name: Unserdeutsch
+    population: 100. 15 in New Britain, a few scattered in Papua New Guinea; the rest
+        southeast Queensland, Australia (1981 C. Volker).
+    population_numeric: 100

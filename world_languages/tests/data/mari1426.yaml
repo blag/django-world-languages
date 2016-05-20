@@ -1,0 +1,54 @@
+mari1426:
+    alternate_names:
+    - Naone
+    - North Maewo
+    - Sunwadia
+    classification:
+    - Austronesian
+    - Malayo-Polynesian
+    - Central-Eastern Malayo-Polynesian
+    - Eastern Malayo-Polynesian
+    - Oceanic
+    - Central-Eastern Oceanic
+    - Remote Oceanic
+    - North and Central Vanuatu
+    - Northeast Vanuatu-Banks Islands
+    - East Vanuatu
+    classification-gl:
+    - Austronesian [aust1307]
+    - Nuclear Austronesian [nucl1752]
+    - Malayo-Polynesian [mala1545]
+    - Central-Eastern Malayo-Polynesian [cent2237]
+    - Eastern Malayo-Polynesian [east2712]
+    - Oceanic [ocea1241]
+    - North and Central Vanuatu [nort3195]
+    - Northern Vanuatu [nort3205]
+    - Maewo [maew1234]
+    classification-hh:
+    - Austronesian
+    - Nuclear Austronesian
+    - Malayo-Polynesian
+    - Central-Eastern Malayo-Polynesian
+    - Eastern Malayo-Polynesian
+    - Oceanic
+    - North and Central Vanuatu
+    - Northern Vanuatu
+    - Maewo
+    code+name: Marino [mrb]
+    coordinates:
+        latitude: -14.9738
+        longitude: 168.11982
+    country:
+    - Vanuatu [VU]
+    iso_639-3: mrb
+    language_development: 'Literacy rate in L1: Some men over 50 can write Marino.
+        Taught in primary schools. Grammar.'
+    language_maps: Vanuatu
+    language_status: 6a (Vigorous).
+    language_use: Positive attitudes.
+    location: North Maewo.
+    macroarea-gl: Papunesia
+    name: Marino
+    other_comments: Christian.
+    population: 500 (2008 A. Henri), increasing.
+    population_numeric: 500

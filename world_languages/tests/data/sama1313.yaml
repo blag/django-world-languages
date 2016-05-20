@@ -1,0 +1,53 @@
+sama1313:
+    alternate_names:
+    - Samaritan Hebrew
+    classification:
+    - Afro-Asiatic
+    - Semitic
+    - Central
+    - South
+    - Canaanite
+    classification-gl:
+    - Afro-Asiatic [afro1255]
+    - Semitic [semi1276]
+    - West Semitic [west2786]
+    - Central Semitic [cent2236]
+    - Northwest Semitic [nort3165]
+    - Canaanite [cana1267]
+    - Hebrewic [hebr1246]
+    classification-hh:
+    - Afro-Asiatic
+    - Semitic
+    - West Semitic
+    - Central Semitic
+    - Northwest Semitic
+    - Canaanite
+    - Hebrewic
+    code+name: Samaritan [smp]
+    coordinates:
+        latitude: 32.08173
+        longitude: 35.44874
+    country:
+    - Israel
+    - Palestinian West Bank and Gaza
+    country-gl:
+    - Israel [IL]
+    - Palestine, State of [PS]
+    iso_639-3: smp
+    language_development: 'Bible: 1853.'
+    language_status: 9 (Dormant).
+    language_use: Samaritan Hebrew and Samaritan Aramaic [sam] secondarily mainly
+        used as liturgical languages. About 30% live near Nablus and speak Palestinian
+        Arabic [ajp] as L1. Others live near Tel Aviv and speak Hebrew [heb] as L1.
+        Religion.
+    location: West Bank near Nablus, Tel Aviv, Israel. Also in Israel.
+    macroarea-gl: Eurasia
+    name: Samaritan
+    other_comments: Jewish (Samaritan).
+    population: 'No known L1 speakers in Palestine. Ethnic population: 620 (1999 H.
+        Mutzafi).'
+    population_numeric: 0
+    writing:
+    - Arabic script
+    - Hebrew script, no longer in use
+    - Samaritan script

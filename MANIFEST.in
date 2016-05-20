@@ -1,0 +1,3 @@
+include LICENSE.txt
+recursive-include world_languages *.py
+recursive-include world_languages/tests/data *.yaml

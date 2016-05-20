@@ -1,0 +1,24 @@
+tune1241:
+    classification:
+    - Spurious
+    - '!Retired'
+    - '!Atlantic-Congo'
+    - '!Volta-Congo'
+    - '!Benue-Congo'
+    - '!Bantoid'
+    - '!Southern Bantoid'
+    - '!Narrow Bantu'
+    - '!Mbam'
+    - '!West Mbam (A.40)'
+    - '!Mandi-Nyokon'
+    classification-gl:
+    - Book keeping [book1242]
+    code+name: Tunen [baz]
+    coordinates:
+        latitude: 4.67724
+        longitude: 10.5456
+    country:
+    - Cameroon [CM]
+    iso_639-3: baz
+    macroarea-gl: Africa
+    name: Tunen

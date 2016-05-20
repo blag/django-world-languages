@@ -1,0 +1,61 @@
+sans1272:
+    alternate_names:
+    - Congo
+    - Kikongo
+    - Kikoongo
+    - Kisikongo
+    classification:
+    - Niger-Congo
+    - Atlantic-Congo
+    - Volta-Congo
+    - Benue-Congo
+    - Bantoid
+    - Southern
+    - Narrow Bantu
+    - Central
+    - H
+    - Kongo (H.16)
+    classification-gl:
+    - Atlantic-Congo [atla1278]
+    - Volta-Congo [volt1241]
+    - Benue-Congo [benu1247]
+    - Bantoid [bant1294]
+    - Southern Bantoid [sout3152]
+    - Narrow Bantu [narr1281]
+    - Central-Western Bantu [cent2260]
+    - Kongo-Yaka-Suku-Hungan [kong1295]
+    - Nuclear Kongo-Yaka-Suku-Hungan [nucl1741]
+    - Core Kikongo [core1256]
+    classification-hh:
+    - Atlantic-Congo
+    - Volta-Congo
+    - Benue-Congo
+    - Bantoid
+    - Southern Bantoid
+    - Narrow Bantu
+    - Central-Western Bantu
+    - Kongo-Yaka-Suku-Hungan
+    - Nuclear Kongo-Yaka-Suku-Hungan
+    - Core Kikongo
+    code+name: Kongo, San Salvador [kwy]
+    coordinates:
+        latitude: -5.33539
+        longitude: 13.35865
+    country:
+    - Democratic Republic of the Congo
+    - Angola
+    country-gl:
+    - Angola [AO]
+    - Congo [CG]
+    - Congo, The Democratic Republic of the [CD]
+    iso_639-3: kwy
+    language_development: 'Dictionary. Bible: 1916-1926.'
+    language_maps: Southern Democratic Republic of Congo
+    language_status: 6a (Vigorous).
+    location: Congo river area below Kinshasa into northern Angola.
+    macroarea-gl: Africa
+    name: Kongo, San Salvador
+    population: 537,000 (2000).
+    population_numeric: 537000
+    writing:
+    - Latin script

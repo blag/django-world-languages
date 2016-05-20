@@ -1,0 +1,119 @@
+poli1260:
+    also_spoken_in:
+        Czech Republic:
+            Alternate Names: Polski
+            Language name: Polish
+            Population: 52,000 in Czech Republic (2001 census).
+            Status: 4 (Educational).
+        Germany:
+            Alternate Names: Polnisch, Polski
+            Language name: Polish
+            Population: 241,000 in Germany.
+            Status: 5 (Dispersed).
+        Hungary:
+            Language name: Polish
+            Location: Budapest and Miskolc areas.
+            Population: '2,580 in Hungary (2001 census). Ethnic population: 3,980.'
+            Status: 4 (Educational).
+        Israel:
+            Alternate Names: Polski
+            Language Use: Also use Hebrew [heb].
+            Language name: Polish
+            Population: 100,000 in Israel (1992 H. Mutzafi).
+            Status: 5 (Dispersed).
+        Lithuania:
+            Language name: Polish
+            Population: 258,000 in Lithuania.
+            Status: 5 (Dispersed).
+        Romania:
+            Alternate Names: Polski
+            Language name: Polish
+            Population: 2,760 in Romania (2002 census).
+            Status: 5 (Dispersed).
+        Slovakia:
+            Alternate Names: Polski
+            Language name: Polish
+            Population: 2,600 in Slovakia (2001 census).
+            Status: 5 (Dispersed).
+        Ukraine:
+            Language name: Polish
+            Population: 144,000 in Ukraine (2001 census).
+            Status: 5 (Dispersed).
+    alternate_names:
+    - Polnisch
+    - Polski
+    classification:
+    - Indo-European
+    - Slavic
+    - West
+    - Lechitic
+    classification-gl:
+    - Indo-European [indo1319]
+    - Balto-Slavic [balt1263]
+    - Slavic [slav1255]
+    - West Slavic [west2792]
+    - Lechitic [lech1241]
+    classification-hh:
+    - Indo-European
+    - Balto-Slavic
+    - Slavic
+    - West Slavic
+    - Lechitic
+    code+name: Polish [pol]
+    coordinates:
+        latitude: 51.843923
+        longitude: 18.625487
+    country:
+    - Canada
+    - Czech Republic
+    - Lithuania
+    - Slovakia
+    - Israel
+    - Australia
+    - Germany
+    - Kazakhstan
+    - Ukraine
+    - Poland
+    - Finland
+    - United States
+    - Latvia
+    - Croatia
+    - Belarus
+    - Romania
+    - Estonia
+    - United Arab Emirates
+    - Serbia
+    - Azerbaijan
+    - Russian Federation (Asia)
+    - Austria
+    - Hungary
+    country-gl:
+    - Belarus [BY]
+    - Czech Republic [CZ]
+    - Germany [DE]
+    - Lithuania [LT]
+    - Poland [PL]
+    - Russian Federation [RU]
+    - Slovakia [SK]
+    - Ukraine [UA]
+    dialects:
+    - Upper Silesian.
+    iso_639-3: pol
+    language_development: 'Fully developed. Bible: 1561-1965.'
+    language_maps: Ukraine
+    language_status: 1 (National). Statutory national language (1997, Constitution,
+        Article 27).
+    location: Also in Australia, Austria, Azerbaijan, Belarus, Canada, Croatia, Czech
+        Republic, Denmark, Estonia, Finland, Germany, Hungary, Israel, Kazakhstan,
+        Latvia, Lithuania, Romania, Russian Federation, Serbia, Slovakia, Sweden,
+        Ukraine, United Arab Emirates, United States.
+    macroarea-gl: Eurasia
+    name: Polish
+    other_comments: Christian, Muslim.
+    population: '36,600,000 in Poland (1986). Population total all countries: 39,042,570.'
+    population_numeric: 36600000
+    typology:
+    - SVO
+    writing:
+    - Braille script
+    - Latin script, primary usage

@@ -1,0 +1,54 @@
+ayut1236:
+    alternate_names:
+    - Coastal Guerrero Mixtec
+    - Mixteco de Ayutla
+    classification:
+    - Otomanguean
+    - Eastern Otomanguean
+    - Amuzgo-Mixtecan
+    - Mixtecan
+    - Mixtec
+    classification-gl:
+    - Otomanguean [otom1299]
+    - Eastern Otomanguean [east2557]
+    - Amuzgo-Mixtecan [amuz1253]
+    - Mixtecan [mixt1422]
+    - Mixtec-Cuicatec [mixt1423]
+    - Mixtec [mixt1427]
+    - Southern Baja Mixtec [sout3179]
+    classification-hh:
+    - Otomanguean
+    - Eastern Otomanguean
+    - Amuzgo-Mixtecan
+    - Mixtecan
+    - Mixtec-Cuicatec
+    - Mixtec
+    - Southern Baja Mixtec
+    code+name: Mixtec, Ayutla [miy]
+    coordinates:
+        latitude: 16.88332
+        longitude: -98.9916
+    country:
+    - Mexico [MX]
+    dialects:
+    - 'Lexical similarity: 30% with Metlatónoc [mxv] and Yoloxóchitl [xty]; 5% with
+        San Juan Colorado [mjc]'
+    - Silacayoapan [mks]
+    - and Santa Maria Zacatepec [mza]. Considered a Mixtec isolate with a large number
+        of words unlike other variants.
+    iso_639-3: miy
+    language_development: 'Literacy rate in L1: Below 1%. Literacy rate in L2: 75%-100%.
+        Videos. Bible portions: 1970-2004.'
+    language_maps: Western Central Mexico
+    language_status: 6a (Vigorous).
+    language_use: Home, work. All ages.
+    location: Guerrero, Ayutla, scattered in about 30 mountain towns; also in Ayutla.
+    macroarea-gl: North America
+    name: Mixtec, Ayutla
+    population: 11,570 (2000 INALI). 3,000 monolinguals.
+    population_numeric: 11570
+    typology:
+    - VSO
+    - prepositions
+    writing:
+    - Latin script

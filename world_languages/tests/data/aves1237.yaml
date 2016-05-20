@@ -1,0 +1,44 @@
+aves1237:
+    alternate_names:
+    - Avesta
+    - Pazend
+    classification:
+    - Indo-European
+    - Indo-Iranian
+    - Iranian
+    classification-gl:
+    - Indo-European [indo1319]
+    - Indo-Iranian [indo1320]
+    - Iranian [iran1269]
+    - Eastern Iranian [east2704]
+    - Northeastern Iranian [nort3176]
+    classification-hh:
+    - Indo-European
+    - Indo-Iranian
+    - Iranian
+    - Eastern Iranian
+    - Northeastern Iranian
+    code+name: Avestan [ave]
+    coordinates:
+        latitude: 31.541
+        longitude: 53.633
+    country:
+    - Iran
+    country-gl:
+    - Iran, Islamic Republic of [IR]
+    dialects:
+    - Old Avestan (Gathic)
+    - Younger Avestan.
+    iso_639-3: ave
+    language_status: 10 (Extinct).
+    language_use: The language of Zoroastrian scriptures.
+    macroarea-gl: Eurasia
+    name: Avestan
+    population: No remaining speakers.
+    population_numeric: 0
+    timespan: 750 BC
+    writing:
+    - Arabic script
+    # Parse centuries
+    - Avestan script, used until 7th century
+    - Gujarati script

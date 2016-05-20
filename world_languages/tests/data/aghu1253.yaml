@@ -1,0 +1,54 @@
+aghu1253:
+    alternate_names:
+    - Aghul-ch'al
+    - Agul
+    classification:
+    - North Caucasian
+    - East Caucasian
+    - Lezgic
+    - Nuclear Lezgic
+    - East Lezgic
+    classification-gl:
+    - Nakh-Daghestanian [nakh1245]
+    - Daghestanian [dagh1238]
+    - Lezgic [lezg1248]
+    - Nuclear Lezgic [nucl1321]
+    - East Lezgic [east2367]
+    classification-hh:
+    - Nakh-Daghestanian
+    - Daghestanian
+    - Lezgic
+    - Nuclear Lezgic
+    - East Lezgic
+    code+name: Aghul [agx]
+    coordinates:
+        latitude: 41.92418
+        longitude: 47.58429
+    country:
+    - Russian Federation (Asia)
+    - Azerbaijan
+    country-gl:
+    - Azerbaijan [AZ]
+    - Russian Federation [RU]
+    dialects:
+    - Agul
+    - Fit'e
+    - Gequn (Burkikhan)
+    - Keren
+    - Koshan (Q'ushan)
+    - Tsirkhe.
+    iso_639-3: agx
+    language_development: 'Can be taught as a subject in local schools (Salminen 2007).
+        Newspapers. Dictionary. Grammar. Bible portions: 2005-2007.'
+    language_maps: Western Russia
+    language_status: 6a (Vigorous).
+    language_use: 98% speak it as L1. Home. All ages. Positive attitudes.
+    location: Southeast Dagestan Republic, Agulsky and Kurakhsky districts; Moscow;
+        Stavropol region.
+    macroarea-gl: Eurasia
+    name: Aghul
+    other_comments: Muslim (Sunni).
+    population: 29,300 (2010 census).
+    population_numeric: 29300
+    writing:
+    - Cyrillic script

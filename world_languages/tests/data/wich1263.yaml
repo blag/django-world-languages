@@ -1,0 +1,45 @@
+wich1263:
+    alternate_names:
+    - '''Mataco Vejoz'''
+    - Vejos
+    - Vejoz
+    classification:
+    - Matacoan
+    - Mataco
+    classification-gl:
+    - Matacoan [mata1289]
+    - Mataguayo II [mata1291]
+    - Wichi [wich1261]
+    classification-hh:
+    - Matacoan
+    - Mataguayo II
+    - Wichi
+    code+name: Wichí Lhamtés Vejoz [wlv]
+    coordinates:
+        latitude: -24.21891
+        longitude: -61.91171
+    country:
+    - Argentina
+    - Bolivia
+    country-gl:
+    - Argentina [AR]
+    - Bolivia, Plurinational State of [BO]
+    - Paraguay [PY]
+    dialects:
+    - Bermejo Vejoz. Not intelligible of other Chaco languages.
+    iso_639-3: wlv
+    language_development: 'Dictionary. Bible: 2002.'
+    language_maps: Argentina and Chile
+    language_status: 5 (Developing).
+    language_use: All ages.
+    location: Northern areas of Chaco, Formosa, Salta, Jujuy, West of Toba, upper
+        Bermejo river valley and Pilcomayo river.
+    macroarea-gl: South America
+    name: Wichí Lhamtés Vejoz
+    other_comments: Language family also called Mataco-Mataguayo. Traditional religion.
+    population: '25,000 (1991 UBS). 28,600 Wichí Güisnay [mzh], Wichí Nocten [mtp]
+        and Wichí Vejoz (2004 INDEC). Ethnic population: 40,000 Wichí Güisnay, Wichí
+        Vejoz and Wichí Nocten (2004 INDEC).'
+    population_numeric: 25000
+    writing:
+    - Latin script

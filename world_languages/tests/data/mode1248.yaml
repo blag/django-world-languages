@@ -1,0 +1,169 @@
+mode1248:
+    also_spoken_in:
+        Albania:
+            Language name: Greek
+            Location: South.
+            Population: 60,000 in Albania (1989).
+            Status: 3 (Wider communication). De facto provincial working language
+                in Gjirokaster, Sarande, and Delvina provinces in south.
+        Cyprus:
+            Dialects: Cypriot Greek.
+            Language name: Greek
+            Location: Nearly all in south Cyprus.
+            Population: 689,000 in Cyprus (2002 census).
+            Status: 1 (National). Statutory national language (1960, Constitution,
+                Article 3(1)).
+        France:
+            Dialects: Cargese.
+            Language Use: Shifted to French [fra].
+            Language name: Greek
+            Location: Cargese, Corsica.
+            Status: 5 (Dispersed).
+        Hungary:
+            Language name: Greek
+            Location: Budapest and Miskolc areas.
+            Population: '1,920 in Hungary (2001 census). Ethnic population: 6,140.'
+            Status: 6b (Threatened).
+        Italy:
+            Alternate Names: Greco, Griko
+            Dialects: Aspromonte, Salento.
+            Language Use: Salento dialect is used widely and there may be a few child
+                speakers but the shift to South Italian [ita] has proceeded rapidly
+                and active speakers tend to be 50 and older. The Calabrian dialect
+                is only used actively in Gaddhiciano village but the youngest speakers
+                are over 30 years old (2007). Mostly older adults.
+            Language name: Greek
+            Location: South, east of Reggio; Salento (Colimera, Sternatía, Zollino)
+                and Aspromonte (Bova, Condofuri, Palizzi, Roccoforte, Roghudi).
+            Population: 20,000 in Italy (Vincent 1987).
+            Status: 7 (Shifting).
+        Romania:
+            Language name: Greek
+            Population: 4,150 in Romania (2002 census).
+            Status: 5 (Dispersed).
+        Turkey:
+            Language name: Greek
+            Location: Istanbul, some in Izmir.
+            Population: 4,000 in Turkey (1993).
+            Status: 5 (Dispersed).
+        Ukraine:
+            Dialects: Mariupol Greek (Crimeo-Rumeic, Tavro-Rumeic).
+            Language Use: 80,978 ethnic Greeks speak Russian [rus] as L1. Some speak
+                Urum [uum] (Podolsky 1985).
+            Language name: Greek
+            Location: Donetsk Oblast, Mariupol town. 18 villages.
+            Population: '5,850 in Ukraine (2001 census). Ethnic population: 91,500.'
+            Status: 5 (Dispersed).
+    alternate_names:
+    - Ellinika
+    - Graecae
+    - Grec
+    - Greco
+    - Neo-Hellenic
+    - Romaic
+    classification:
+    - Indo-European
+    - Greek
+    - Attic
+    classification-gl:
+    - Indo-European [indo1319]
+    - Graeco-Phrygian [grae1234]
+    - Greek [gree1276]
+    - Attic [atti1238]
+    - Koineic Greek [koin1234]
+    classification-hh:
+    - Indo-European
+    - Graeco-Phrygian
+    - Greek
+    - Attic
+    - Koineic Greek
+    code+name: Greek [ell]
+    coordinates:
+        latitude: 42.32238555555555
+        longitude: 24.86993777777778
+    country:
+    - Canada
+    - Italy
+    - Czech Republic
+    - France
+    - Bahamas
+    - Democratic Republic of the Congo
+    - Malawi
+    - Turkey (Asia)
+    - Russian Federation (Asia)
+    - Australia
+    - Austria
+    - Jordan
+    - Armenia
+    - Germany
+    - Kazakhstan
+    - Sierra Leone
+    - Ukraine
+    - Georgia
+    - Libya
+    - Poland
+    - Macedonia
+    - United States
+    - Sweden
+    - Bulgaria
+    - Romania
+    - Albania
+    - South Africa
+    - Egypt
+    - United Arab Emirates
+    - United Kingdom
+    - Tunisia
+    - Djibouti
+    - Congo
+    - Mozambique
+    - Greece
+    - Paraguay
+    - Hungary
+    - Cyprus
+    country-gl:
+    - Albania [AL]
+    - Bulgaria [BG]
+    - Cyprus [CY]
+    - Egypt [EG]
+    - Greece [GR]
+    - Italy [IT]
+    - Macedonia, Republic of [MK]
+    - Romania [RO]
+    - Turkey [TR]
+    - Ukraine [UA]
+    dialects:
+    - Dimotiki
+    - Katharevousa
+    - Saracatsan. Katharevousa is an archaic literary dialect
+    - Dimotiki is the spoken literary and now official dialect. The Saracatsan are
+        nomadic shepherds of northern Greece. The Greek of Italy and that of Corsica
+        are probably distinct languages (1992 R. Zamponi). In Cyprus
+    - the dialect is reportedly more similar to Classical Greek [grc] in some vocabulary
+        and grammar than that spoken in Greece
+    - 'and to have Latin [lat] and Turkish [tur] loanwords. Lexical similarity: 84%-93%
+        with Greek [ell] in Cyprus.'
+    iso_639-3: ell
+    language_development: 'Fully developed. Bible: 1840-1994.'
+    language_maps: Cyprus
+    language_status: 1 (National). De facto national language.
+    location: Widespread. Also in Albania, Armenia, Australia, Austria, Bahamas, Bulgaria,
+        Canada, Cyprus, Czech Republic, Democratic Republic of the Congo, Djibouti,
+        Egypt, France, Georgia, Germany, Hungary, Italy, Jordan, Kazakhstan, Libya,
+        Macedonia, Malawi, Mozambique, Paraguay, Poland, Romania, Russian Federation,
+        Sierra Leone, South Africa, Sweden, Tunisia, Turkey, Ukraine, United Arab
+        Emirates, United Kingdom, United States.
+    macroarea-gl: Eurasia
+    name: Greek
+    name-gl: Modern Greek (1453-)
+    other_comments: 'Greeks in the Russian Federation and Ukraine speak either Greek
+        or Turkish, Ethnonym: Urums. The Karamanli were Orthodox Christian Turks who
+        came from central Turkey.'
+    population: '10,700,000 in Greece (2002 census). Population total all countries:
+        13,068,650.'
+    population_numeric: 10700000
+    typology:
+    - SVO
+    writing:
+    - Braille script
+    - Cyrillic script, used in Ukraine
+    - Greek script, primary usage

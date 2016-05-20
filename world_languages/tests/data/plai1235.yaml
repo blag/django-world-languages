@@ -1,0 +1,40 @@
+plai1235:
+    alternate_names:
+    - Plains Sign Language
+    classification:
+    - Deaf sign language
+    classification-gl:
+    - Sign Language [sign1238]
+    - Auxiliary Sign Systems [auxi1235]
+    classification-hh:
+    - Auxiliary Sign Systems
+    code+name: Plains Indian Sign Language [psd]
+    coordinates:
+        latitude: 38.39406
+        longitude: -99.24989
+    country:
+    - Canada [CA]
+    - United States [US]
+    dialects:
+    - North Central Plains Indian Sign Language. Some variation by ethnic group and
+        region
+    - but dialect differences do not impede communication among different tribes.
+        Comparisons between different historical sources of lexical data on PISL range
+        from 80% to 92%. Comparison of these sources with American Sign Language [ase]
+        show 50% similarity.
+    iso_639-3: psd
+    language_status: 8a (Moribund).
+    language_use: Used as a lingua franca for inter-tribal contact by hearing and
+        deaf people, and by deaf people with family and friends. Wide range of genres
+        including story-telling, prayers, inter-tribal negotiation, and bantering
+        (Davis 2010). Second language only.
+    location: Great Plains and neighboring regions. Also in Canada.
+    macroarea-gl: North America
+    name: Plains Indian Sign Language
+    population: No monolinguals. Mostly elderly hearing people and some deaf people.
+    population_numeric: 0
+    typology:
+    - SOV
+    - compounding (head-initial)
+    - verb agreement
+    - classifier predicates

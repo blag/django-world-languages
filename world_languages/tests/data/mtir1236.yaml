@@ -1,0 +1,55 @@
+mtir1236:
+    alternate_names:
+    - Inagta of Mt. Iraya
+    - Itbeg Rugnot
+    - Lake Buhi
+    - Rugnot of Lake Buhi East
+    classification:
+    - Austronesian
+    - Malayo-Polynesian
+    - Philippine
+    - Greater Central Philippine
+    - Central Philippine
+    - Bikol
+    - Coastal
+    - Naga
+    classification-gl:
+    - Austronesian [aust1307]
+    - Nuclear Austronesian [nucl1752]
+    - Malayo-Polynesian [mala1545]
+    - Greater Central Philippine [grea1284]
+    - Central Philippine [cent2246]
+    - Bikol [biko1240]
+    - Inagta Bikol [inag1234]
+    classification-hh:
+    - Austronesian
+    - Nuclear Austronesian
+    - Malayo-Polynesian
+    - Greater Central Philippine
+    - Central Philippine
+    - Bikol
+    - Inagta Bikol
+    code+name: Agta, Mt. Iraya [atl]
+    coordinates:
+        latitude: 13.4588
+        longitude: 123.55216
+    country:
+    - Philippines [PH]
+    dialects:
+    - 54%-86% comprehension of Naga dialect of Central Bikol [bcl]
+    - 94% comprehension of Mt. Iriga Agta [agz]
+    - 'Iriga City dialect. Lexical similarity: 85%-90% with Bikol; 70% with Mt. Iriga
+        Agta'
+    - Iriga City dialect
+    - 93% among four dialects.
+    iso_639-3: atl
+    language_maps: Southern Philippines
+    language_status: 7 (Shifting).
+    language_use: Home. Used by a few children. Negative attitudes. Also use some
+        Filipino [fil].
+    location: Luzon, Bicol region, east of Lake Buhi.
+    macroarea-gl: Papunesia
+    name: Agta, Mt. Iraya
+    other_comments: Heavy borrowing from Legaspi dialect of Central Bikol [bcl].
+    population: '150 (Wurm 2000). Ethnic population: 380.'
+    population_numeric: 150
